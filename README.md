@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React native**
 
-- 👨‍💻 All of my projects are available at <a alt="rifat web dev website" href="https://akrifat.netlify.app" target="_blank"><strong>my portfolio</strong></a>
+- 👨‍💻 All of my projects are available at <a alt="rifat web dev website" href="https://akrifat.netlify.app" target="_blank" rel="noopener"><strong>my portfolio</strong></a>
 
 - 💬 Ask me about **javascript, react, node, express**
 
@@ -33,10 +33,10 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> 
   <br/>
   <br/>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.sanity.io/images/3do82whm/next/4b1f008289a88f4438a1c983fb32cf1a636d9d0e-1000x667.png?w=720&h=480&fit=clip&auto=format" alt="nextjs" width="60" height="60"/> </a> <span style="width:25px"></span>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.sanity.io/images/3do82whm/next/4b1f008289a88f4438a1c983fb32cf1a636d9d0e-1000x667.png?w=720&h=480&fit=clip&auto=format" alt="nextjs" width="90" height="60"/> </a> <span style="width:25px"></span>
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" alt="reactnative" width="80" height="60"/> </a><span style="width:25px"></span>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a><span style="width:25px"></span>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a> <span style="width:25px"></span>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://expressjs.com/images/express-facebook-share.png" alt="express" width="60" height="60"/> </a> <span style="width:25px"></span>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a><span style="width:25px"></span>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a><span style="width:25px"></span>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a> 
