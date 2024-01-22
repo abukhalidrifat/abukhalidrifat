@@ -1,18 +1,18 @@
 ![MasterHead](banner.gif)
-<h1 align="center">Hi 👋, I'm Abu Khalid Rifat</h1>
-<h3 align="center">Full Stack Web Developer | Wordpress theme developer</h3>
+
+<h1 align="center">Hi 👋, I'm A.K Bin Azad Rifat</h1>
+<h3 align="center">Full Stack Web Developer | Native App Developer</h3>
 
 <br/>
 <img align="right" alt="coding" width="400" src="./coding.gif"/>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abukhalidrifat&label=Profile%20views&color=0e75b6&style=flat" alt="abukhalidrifat" /> </p>
 
 - 🌱 I’m currently learning **React native**
 
-- 👨‍💻 All of my projects are available at <a alt="rifat web dev website" href="https://akrifat.netlify.app" target="_blank" rel="noreferrer"><strong>my portfolio</strong></a>
+- 👨‍💻 All of my projects are available at <a alt="rifat web dev website" href="https://akrifat.vercel.app" target="_blank" rel="noreferrer"><strong>my portfolio</strong></a>
 
-- 💬 Ask me about **javascript, react, node, express**
+- 💬 Ask me about **php, laravel, javascript, react, vue, node, express**
 
 - 📫 How to reach me **abukhalidrifat99+gh@gmail.com**
 <h3 align="left">Connect with me:</h3>
@@ -28,9 +28,10 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a>
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png?3" alt="wordpress" width="60" height="60"/> </a>
+  <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/laravel8530.jpg" alt="laravel" width="60" height="60"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> 
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="vue" width="60" height="60"/> </a> 
   <br/>
   <br/>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.sanity.io/images/3do82whm/next/4b1f008289a88f4438a1c983fb32cf1a636d9d0e-1000x667.png?w=720&h=480&fit=clip&auto=format" alt="nextjs" width="90" height="60"/> </a> 
@@ -52,7 +53,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abukhalidrifat&show_icons=true&locale=en&layout=compact" alt="abukhalidrifat" /></p>
 
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abukhalidrifat&" alt="abukhalidrifat" /></p>
-
